@@ -22,7 +22,8 @@ MySQL/MariaDB 에서 테스트 목적으로 사용할 대용량 더미 데이터
 ### 더미 데이터 생성
 
 - 고등학교 정보는 아래의 링크에서 추출함
-<a href=https://www.sen.go.kr/web/services/bbs/bbsList.action?bbsBean.bbsCd=115>서울시 교육청 학교안내</a>
+
+<a href="https://www.sen.go.kr/web/services/bbs/bbsList.action?bbsBean.bbsCd=115">서울시 교육청 학교안내</a>
 
 - import_grade.py와 high.xlsx는 같은 위치에 있어야 한다.
     - 다른 지역의 고등학교 목록까지 포함하려 하였으나 서울시 고등학교만 우선 사용하였다.
