@@ -1,0 +1,16 @@
+__pycache__
+*.xlsx
+*.exe
+*.log
+test_code
+test_stillcut
+.pylintrc
+test*.py
+*บนป็บป*
+account.txt
+
+Lib
+*.cfg
+activate
+*.bat
+*.ps1
